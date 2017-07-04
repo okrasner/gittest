@@ -1,3 +1,4 @@
+1 milk
 1 eggs
 2 sugar
 3 onions
